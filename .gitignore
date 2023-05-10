@@ -1,5 +1,0 @@
-files/
-!files/output.txt
-
-*.dat
-!a.dat
