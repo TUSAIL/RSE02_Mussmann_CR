@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+myst-parser = "*"
+sphinx = "*"
 
 [dev-packages]
 
